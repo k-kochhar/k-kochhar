@@ -4,7 +4,7 @@
 I’m a Junior CS Major at the University of Maryland, pursuing my passion in Computer Science with an emphasis on Machine Learning and Educational Technology.
 
 ## 🔭 Current Projects
-I’m currently working on Engauge and CTFGuide. I'm also preparing for HackPrinceton!
+I’m currently working on Engauge and CTFGuide!
 
 ## 🌱 I’m Always Learning
 Currently, my focus is on deepening my understanding of NLP and AI.
