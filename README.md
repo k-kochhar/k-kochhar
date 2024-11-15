@@ -12,12 +12,6 @@ Currently, my focus is on deepening my understanding of NLP and AI.
 ## 🏆 Hackathon Enthusiast
 I’m a hackathon enthusiast with wins at PennApps, HopHacks, and Bitcamp!
 
-## 👯 Let’s Collaborate
-I’m looking to collaborate on projects that are at the intersection of education and technology. If you’re passionate about making a difference in how people learn, let’s connect!
-
-## 💬 Ask Me Anything
-Ask me about my projects, what I’m learning, or anything tech!
-
 ## 📫 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/kkochhar04)
 - [DevPost](https://devpost.com/kkochhar2004)
