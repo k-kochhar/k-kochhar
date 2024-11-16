@@ -6,6 +6,8 @@ I’m a Junior CS Major at the University of Maryland, pursuing my passion in Co
 ## 🔭 Current Projects
 I’m currently working on Engauge and CTFGuide!
 
+Check out [TravelTracker](https://traveltracker.kshitijkochhar.com)!
+
 ## 🌱 I’m Always Learning
 Currently, my focus is on deepening my understanding of NLP and AI.
 
