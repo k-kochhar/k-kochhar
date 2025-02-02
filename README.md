@@ -12,7 +12,7 @@ Check out [TravelTracker](https://traveltracker.kshitijkochhar.com)!
 Currently, my focus is on deepening my understanding of NLP and AI.
 
 ## 🏆 Hackathon Enthusiast
-I’m a hackathon enthusiast with wins at PennApps, HopHacks, and Bitcamp!
+I’m a hackathon enthusiast with wins at PennApps, HopHacks, Bitcamp, and HoyaHacks!
 
 ## 📫 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/kkochhar04)
