@@ -1,23 +1,21 @@
 # Hey, I’m Kshitij Kochhar 👋
 
 ## 🎓 About Me
-I’m a Junior CS Major at the University of Maryland, pursuing my passion in Computer Science with an emphasis on Machine Learning and Educational Technology.
+I’m a **junior CS major at UMD** who loves building stuff. I’m interested in solving real-world problems with code, which is something I explore through startups and hackathons.  
 
-## 🔭 Current Projects
-I’m currently working on Engauge and CTFGuide!
+## 🛠 What I’m Working On  
+- **Engauge** – helping students make sense of lectures in real-time  
+- **CTFGuide** – making cybersecurity education more accessible
+- **Hackathons** - learning new things while building cool stuff
 
-Check out [TravelTracker](https://traveltracker.kshitijkochhar.com)!
-
-## 🌱 I’m Always Learning
-Currently, my focus is on deepening my understanding of NLP and AI.
-
-## 🏆 Hackathon Enthusiast
-I’m a hackathon enthusiast with wins at PennApps, HopHacks, Bitcamp, and HoyaHacks!
+## 🛡️ Tech Stack  
+**Languages:** Python, JavaScript, TypeScript, C++, Rust, SQL  
+**Frameworks & Tools:** React, Next.js, Flask, Node.js, LangChain, Firebase, Supabase, Qdrant  
+**AI & NLP:** LLMs, RAG, Hugging Face, SpaCy, YOLO  
 
 ## 📫 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/kkochhar04)
 - [DevPost](https://devpost.com/kkochhar2004)
-- [CTFGuide](https://ctfguide.com/users/kairo)
 - [Email](kkochhar@terpmail.umd.edu)
 - [Portfolio Webpage](https://kshitijkochhar.com).
 
