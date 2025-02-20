@@ -1,7 +1,7 @@
 # Hey, I’m Kshitij Kochhar 👋
 
 ## 🎓 About Me
-I’m a **junior CS major at UMD** who loves building stuff. I’m interested in solving real-world problems with code, which is something I explore through startups and hackathons.  
+I’m a **junior CS major at the University of Maryland** who loves building stuff. I’m interested in solving real-world problems with code, which is something I explore through startups and hackathons.  
 
 ## 🛠 What I’m Working On  
 - **Engauge** – helping students make sense of lectures in real-time  
