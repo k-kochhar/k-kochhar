@@ -10,7 +10,7 @@ I’m a **junior CS major at the University of Maryland** who loves building stu
 
 ## 🛡️ Tech Stack  
 **Languages:** Python, JavaScript, TypeScript, C++, Rust, SQL  
-**Frameworks & Tools:** React, Next.js, Flask, Node.js, LangChain, Firebase, Supabase, Qdrant  
+**Frameworks & Tools:** React, Next.js, Flask, Node.js, LangChain, Supabase, Qdrant  
 **AI & NLP:** LLMs, RAG, Hugging Face, SpaCy, YOLO  
 
 ## 📫 Let's Connect
