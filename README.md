@@ -1,17 +1,12 @@
 # Hey, I’m Kshitij Kochhar 👋
 
 ## 🎓 About Me
-I’m a **junior CS major at the University of Maryland** who loves building stuff. I’m interested in solving real-world problems with code, which is something I explore through startups and hackathons.  
+I’m a recent graduate from **the University of Maryland** who loves building stuff. I’m interested in solving real-world problems with code, which is something I explore through startups and hackathons.  
 
-## 🛠 What I’m Working On  
-- **Engauge** – helping students make sense of lectures in real-time  
-- **CTFGuide** – making cybersecurity education more accessible
+## 🛠 What I’m Working On
+- **AWS** – ec2 core product management
+- **Equivly** – helping students make sense of course equivalencies
 - **Hackathons** - learning new things while building cool stuff
-
-## 🛡️ Tech Stack  
-**Languages:** Python, JavaScript, TypeScript, C++, Rust, SQL  
-**Frameworks & Tools:** React, Next.js, Flask, Node.js, LangChain, Supabase, Qdrant  
-**AI & NLP:** LLMs, RAG, Hugging Face, SpaCy, YOLO  
 
 ## 📫 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/kkochhar04)
